@@ -1,8 +1,8 @@
 {
-  "useMojang": false,
+  "useMojang": true,
   "useCrafatar": false,
   "useCustomServer": false,
   "useCustomServer2": true,
-  "hostCustomServer2Skin": "https://raw.githubusercontent.com/Shisuiicaro/zsmp-skin-server/master/skins/%name%.png",
-  "hostCustomServer2Cape": "https://raw.githubusercontent.com/Shisuiicaro/zsmp-skin-server/master/capes/%name%.png"
+  "hostCustomServer2Skin": "https://hastastudios.com.br/offline/skins/%name%.png",
+  "hostCustomServer2Cape": "https://hastastudios.com.br/offline/capes/%name%.png"
 }
